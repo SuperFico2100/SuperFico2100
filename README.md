@@ -9,7 +9,7 @@
 
 ### :bar_chart: Stats
 ![SuperFico2100's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperFico2100&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SuperFico2100&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ivory-ten.vercel.app/?user=SuperFico2100&theme=dark)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=SuperFico2100&theme=onedark&row=1&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :hammer_and_wrench: Languages and Tools: 
