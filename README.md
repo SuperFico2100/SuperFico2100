@@ -3,7 +3,7 @@
 <img align="right" alt="SuperFico2100" width="180" src="https://github.com/SuperFico2100/SuperFico2100/blob/main/pfp.gif" />
 
 - :telescope: I’m currently working on [Enricozon 2.0](https://github.com/Enricozon-Team/enricozon2.0) 
-- :seedling: I’m currently learning HTML, CSS, JavaScript and Python
+- :seedling: I’m currently learning HTML, CSS, JavaScript C# and Astro
 - :nerd_face: Currently a student in Italy 
 - :mailbox: How to reach me: [Discord](https://discord.com/users/772229565002809354) or via [Twitter/X](https://twitter.com/SuperFico2100). 
 
