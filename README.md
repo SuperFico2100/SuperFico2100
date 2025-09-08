@@ -4,8 +4,8 @@
 
 - :telescope: I’m currently working on [Enricozon 2.0](https://github.com/Enricozon-Team/enricozon2.0) 
 - :seedling: I’m currently learning HTML, CSS, JavaScript C# and Astro
-- :nerd_face: Currently a student in Italy 
-- :mailbox: How to reach me: [Discord](https://discord.com/users/772229565002809354) or via [Twitter/X](https://twitter.com/SuperFico2100). 
+- :books: Currently a student in Italy 
+- :mailbox: How to reach me: [Discord](https://discord.com/users/772229565002809354), [Twitter/X](https://twitter.com/SuperFico2100) or via [e-mail](mailto:superfico2100@gmail.com). 
 
 ### :bar_chart: Stats
 ![SuperFico2100's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperFico2100&show_icons=true&theme=dark)
